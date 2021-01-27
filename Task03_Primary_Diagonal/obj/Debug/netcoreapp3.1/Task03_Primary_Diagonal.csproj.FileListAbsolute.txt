@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\bin\Debug\netcoreapp3.1\Task03_Primary_Diagonal.exe
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\bin\Debug\netcoreapp3.1\Task03_Primary_Diagonal.deps.json
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\bin\Debug\netcoreapp3.1\Task03_Primary_Diagonal.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\bin\Debug\netcoreapp3.1\Task03_Primary_Diagonal.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\bin\Debug\netcoreapp3.1\Task03_Primary_Diagonal.dll
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\bin\Debug\netcoreapp3.1\Task03_Primary_Diagonal.pdb
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\obj\Debug\netcoreapp3.1\Task03_Primary_Diagonal.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\obj\Debug\netcoreapp3.1\Task03_Primary_Diagonal.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\obj\Debug\netcoreapp3.1\Task03_Primary_Diagonal.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\obj\Debug\netcoreapp3.1\Task03_Primary_Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\obj\Debug\netcoreapp3.1\Task03_Primary_Diagonal.dll
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\obj\Debug\netcoreapp3.1\Task03_Primary_Diagonal.pdb
+C:\Users\Kiril\Advanced_CSharp\02_Multidimensional_Arrays_Lab\Task03_Primary_Diagonal\obj\Debug\netcoreapp3.1\Task03_Primary_Diagonal.genruntimeconfig.cache
